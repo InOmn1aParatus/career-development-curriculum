@@ -35,7 +35,7 @@ What are each of our strengths? How can our strengths complement each other?
 - I welcome feedback so long as it is constructive, and so long as it is given with the expectation of being taken well.
 - What holds me back from giving feedback is expecting that the person will not respond to it well.
 11. What do you identify as being your biggest strength(s) technically, as they relate to this project? Where do you feel you could use improvement in your technical skills, as they relate to this project? How can our team help support you in improving these skills?
-- 
+- My biggest strengths include my attention to detail, my ability to manage my time effectively, and my ability to organize the steps to solving a problem into logical trunks. This will come in handy in manabing the project work time. I could use improvement in my ability to understand what my project partner needs if they are less vocal about it. I can improve the skills with the help of Turing by following advice on proven methods for managing workflow with a team.
 12. What tools do you want to use to manage the project?
 - [replit](replit.com), Pry, open communication.
 13. How do you want the group to solve problems when members run into issues with features of the project?
@@ -52,11 +52,16 @@ What are each of our strengths? How can our strengths complement each other?
 Any additional questions that you would like to add:
 
 ### Remote Work Considerations During the COVID-19 Quarantine
-* What does remote focus look like for you? (headphones, distractions minimized (tv, family stuff, etc), video on)
-* When working from the same place where you live, life can get in the way. What are some potential life things that could affect your ability to focus, and what plan can we come up with to approach those moments? 
-* If we encounter issues such as power outages, Zoom difficulties, or bad wifi, what backup plans can we have in place? (This could have answers like  asking a neighbor to borrow wifi, using cellphone hotspot for internet, switching to slack or skype. 
-* Pomodoro breaks are especially important for remote work and doubly so for quarantine. What should our Pom cadence look like? How will hold ourselves accountable?
-* Quarantine is tough, so it’s important to make note of our mental/emotional state when working with others. How can we make space to check in on each other’s well being, in addition to the work that needs to be done?
+1. What does remote focus look like for you? (headphones, distractions minimized (tv, family stuff, etc), video on)
+- I prefer to work without headphones unless there are distracting noises in the environment. If possible, I will isolate myself to minimize distractions and keep the lights low so that I can focus on my screen. If something important comes up in my home, I hope that it is understandable that I will need to attend to something from time to time.
+2. When working from the same place where you live, life can get in the way. What are some potential life things that could affect your ability to focus, and what plan can we come up with to approach those moments?
+- if there is a danger in my immediate environment, I will need to stop working to address it very quickly. If someone needs me for something very important, such as a medical emergency, I will attend to this as a priority over work. I can manage the number of distractions of this nature by coordinating with people around me so that they know I will be unavailable for long stretches of time.
+3. If we encounter issues such as power outages, Zoom difficulties, or bad wifi, what backup plans can we have in place? (This could have answers like  asking a neighbor to borrow wifi, using cellphone hotspot for internet, switching to slack or skype.
+- I have been informed that as long as I am able to communicate these issues to the instructors that they will help me devise a plan to catch up with the material. I am also now paying for an unlimited data plan with hotspot tethering, and I can use this to connect my laptop during an Internet outage.
+4. Pomodoro breaks are especially important for remote work and doubly so for quarantine. What should our Pom cadence look like? How will hold ourselves accountable?
+- a generally agreed-upon rule has been 30-50 minute work sessions with 5-10 minute Pom breaks. I prefer to work with an hourglass next to me that was specially designed for 25-minute work sessions. I have been very good about sticking to this as a timer.
+5. Quarantine is tough, so it’s important to make note of our mental/emotional state when working with others. How can we make space to check in on each other’s well being, in addition to the work that needs to be done?
+- I will ensure that every day or every few days I am checking in with my partner or partners to see that they feel that their needs are being met and that they do not like anything they need to do their best work.
 
 ### Template for DTR Memo
 
