@@ -63,37 +63,38 @@ Any additional questions that you would like to add:
 5. Quarantine is tough, so it’s important to make note of our mental/emotional state when working with others. How can we make space to check in on each other’s well being, in addition to the work that needs to be done?
 - I will ensure that every day or every few days I am checking in with my partner or partners to see that they feel that their needs are being met and that they do not like anything they need to do their best work.
 
-### Template for DTR Memo
+## Template for DTR Memo
 
-Project: 
+### Project: 
 
-Group Member Names:
+#### Group Member Names:
+Matt Toensing, Ted Staros, Brett Jones
 
-Goals and Expectations for the Project (What does each group member hope to get out of this project? What do we want to achieve as a team? How will we know that we're successful?):
+#### Goals and Expectations for the Project (What does each group member hope to get out of this project? What do we want to achieve as a team? How will we know that we're successful?):
 	
-Team strengths & collaboration styles (consider discussing your Pairin qualities here):
+#### Team strengths & collaboration styles (consider discussing your Pairin qualities here):
 
-How we can use our strengths to overcome obstacles:
+#### How we can use our strengths to overcome obstacles:
 
-Schedule Expectations (When are we available to work together and individually? What constraints do we have? Make sure to discuss the remote questions above in regards to this section):
+#### Schedule Expectations (When are we available to work together and individually? What constraints do we have? Make sure to discuss the remote questions above in regards to this section):
 
-Communication Expectations (How and often will we communicate? How do we keep lines of communication open? How will we make decisions as a team? How will we communicate about our emotional and mental well-being with each other?):
+#### Communication Expectations (How and often will we communicate? How do we keep lines of communication open? How will we make decisions as a team? How will we communicate about our emotional and mental well-being with each other?):
 
-Abilities & Growth Expectations (Technical strengths and areas for desired improvement):
+#### Abilities & Growth Expectations (Technical strengths and areas for desired improvement):
 
-Workload Expectations (What features do we each want to work on?):
+#### Workload Expectations (What features do we each want to work on?):
 
-Workflow Expectations (Git workflow/Tools/Code Review/Reviewing Pull Requests/Debugging and Problem-solving Techniques): 
+#### Workflow Expectations (Git workflow/Tools/Code Review/Reviewing Pull Requests/Debugging and Problem-solving Techniques): 
 
-Pomodoro Break Schedule:
+#### Pomodoro Break Schedule:
 
-Expectations for giving and receiving feedback:
+#### Expectations for giving and receiving feedback:
 
-Additional Remote Considerations:
+#### Additional Remote Considerations:
 
-Project management tools we will use (GitHub projects or Trello are popular tools):
+#### Project management tools we will use (GitHub projects or Trello are popular tools):
 
-Day 1 Agenda: 
+#### Day 1 Agenda: 
 
 Additional Notes:
 
