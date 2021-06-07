@@ -65,12 +65,13 @@ Any additional questions that you would like to add:
 
 ## Template for DTR Memo
 
-### Project: 
+### Project: Black Thursday
 
 #### Group Member Names:
 Matt Toensing, Ted Staros, Brett Jones
 
 #### Goals and Expectations for the Project (What does each group member hope to get out of this project? What do we want to achieve as a team? How will we know that we're successful?):
+
 	
 #### Team strengths & collaboration styles (consider discussing your Pairin qualities here):
 
